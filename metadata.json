@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS - Full-Stack Social Media Platform",
+  "description": "A production-style full-stack social media application featuring secure JWT authentication, rich social feeds, profiles, likes, comments, follows, notifications, and real-time Socket.io messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
