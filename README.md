@@ -1,6 +1,5 @@
 # NEXUS – Full-Stack Social Media Platform
 
-> **Major College Engineering Project**  
 > Built with the **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Socket.io** WebSockets.
 
 ---
