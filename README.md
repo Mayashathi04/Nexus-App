@@ -274,3 +274,218 @@ npm run dev
 # 4. Open in browser
 http://localhost:3000
 ```
+
+
+
+Nexus is a modern, responsive social media application designed with a sleek dark glassmorphic interface.
+
+The application provides an interactive social-media experience where users can explore personalized feeds, create posts, discover trending topics, view profiles, switch between user personas, and interact with real-time communication interfaces.
+
+🚀 Project Links
+
+🔗 Live Demo: https://nexus-app-five-zeta.vercel.app/
+
+🔗 GitHub Repository: https://github.com/Mayashathi04/
+
+📸 Screenshots & Demo
+
+🏠 Home Feed
+
+<img width="1894" height="869" alt="Screenshot 2026-10-02 211826" src="https://github.com/user-attachments/assets/62dfe2c6-408a-491d-89fd-dbf202d4fad2" />
+
+<img width="1889" height="869" alt="Screenshot 2026-10-02 212026" src="https://github.com/user-attachments/assets/e93a724e-0f13-4d05-be57-9fce0683250a" />
+
+🔥 Trending / Explore
+
+<img width="1889" height="869" alt="Screenshot 2026-10-02 212456" src="https://github.com/user-attachments/assets/f82c91dc-3a81-4683-8c03-fc2319bf55f9" />
+
+<img width="1889" height="869" alt="Screenshot 2026-10-02 212456" src="https://github.com/user-attachments/assets/5886ec4b-cf22-4fbf-9916-9fef4b59da37" />
+
+
+✍️ Create Post
+
+<img width="1893" height="869" alt="Screenshot 2026-10-02 212049" src="https://github.com/user-attachments/assets/e3abfa58-eb53-4aab-b68b-fd74315241f9" />
+
+<img width="1888" height="869" alt="Screenshot 2026-10-02 212323" src="https://github.com/user-attachments/assets/8f02b3e5-7a6c-4999-a8a7-5d07f9cd354a" />
+
+
+👤 User Profile
+
+<img width="1886" height="849" alt="Screenshot 2026-10-02 212405" src="https://github.com/user-attachments/assets/5b14f2f8-38de-4f92-80d4-674e7a64bf71" />
+
+
+💬 Chat & Notifications
+
+<img width="1891" height="869" alt="Screenshot 2026-10-02 212514" src="https://github.com/user-attachments/assets/e1875f51-86f5-49f0-b784-4484bab04dea" />
+
+<img width="1889" height="870" alt="Screenshot 2026-10-02 212532" src="https://github.com/user-attachments/assets/20ba58b8-a453-44b4-91a5-062a53f77635" />
+
+✨ Features
+
+🏠 Interactive Home Feed
+
+Users can switch between multiple feed categories:
+
+For You
+
+Following
+
+Trending
+
+The interface dynamically updates the displayed content based on the selected feed.
+
+✍️ Post Creation
+
+Create new posts through an intuitive modal interface.
+
+Simple and interactive publishing experience.
+
+Dynamic feed updates.
+
+👤 Active Persona Switcher
+
+The application provides multiple user personas that allow users to experience different account views without repeatedly going through the complete authentication flow.
+
+💬 Real-Time Communication UI
+
+Nexus includes dedicated interfaces for:
+
+Chat
+
+Notifications
+
+Live interaction states
+
+These components provide the foundation for a real-time social communication experience.
+
+🔎 Explore & Discovery
+
+Users can discover content through:
+
+Suggested creators.
+
+Trending hashtags.
+
+Explore sections.
+
+Popular topics such as #react, #design, and #webdev.
+
+👤 Profile Management
+
+Profile pages display:
+
+User information.
+
+Personal posts.
+
+Account statistics.
+
+Saved content.
+
+📱 Responsive Design
+
+The application is designed to provide a consistent experience across:
+
+Desktop
+
+Tablet
+
+Mobile devices
+
+🎨 UI Design
+
+Nexus uses a modern glassmorphism-inspired dark interface with:
+
+Translucent cards.
+
+Layered backgrounds.
+
+Rounded UI components.
+
+Responsive layouts.
+
+Interactive navigation.
+
+Modern social-media dashboard patterns.
+
+🛠️ Technologies Used
+
+Technology
+
+Purpose
+
+React.js
+
+Single-page application development
+
+Vite
+
+Frontend tooling and development server
+
+JavaScript ES6+
+
+Application logic and dynamic interactions
+
+CSS3
+
+Styling, responsive layouts, and glassmorphism UI
+
+Vercel
+
+Application deployment
+
+💡 Project Highlights
+
+Nexus demonstrates practical frontend development skills including:
+
+React component architecture.
+
+Single-page application development.
+
+Dynamic feed rendering.
+
+State-based UI interactions.
+
+Modal-based content creation.
+
+Responsive CSS layouts.
+
+Modern glassmorphism design.
+
+User persona switching.
+
+Social-media style navigation.
+
+Production deployment using Vercel.
+
+🔮 Future Enhancements
+
+Complete backend integration.
+
+MongoDB database integration.
+
+Secure user authentication.
+
+Real-time messaging using WebSockets/Socket.IO.
+
+Image and video uploads.
+
+Likes, comments, and shares.
+
+Follow/unfollow functionality.
+
+Push notifications.
+
+Advanced content recommendations.
+
+👩‍💻 Author
+
+Maya Shathi S
+
+GitHub: https://github.com/Mayashathi04
+
+LinkedIn: https://www.linkedin.com/in/mayashathi-s04
+
+📄 License
+
+This project is available under the MIT License.
